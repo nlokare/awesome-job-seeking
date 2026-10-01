@@ -70,6 +70,7 @@ A curated list of awesome job seeking resources
 * [JDMatcher](https://resumejdmatcher.com) - AI resume-to-JD matcher. Paste your resume + job description, get an instant match score and a one-click tailored rewrite with ATS-friendly PDF export. Free tier.
 * [JobLane](https://joblane.ai) - AI copilot that gives an Apply/Stretch/Skip fit verdict for a job posting, then tailors your CV and cover letter with a reviewer pass showing every change. EN/ES/FR, EU-hosted.
 * [jobscan](https://www.jobscan.co/)
+* [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anonymous, 10/day free account; State of ATS 2026 — Workday 37.9%)
 * [JobSprout](https://jobsprout.ai) - AI CV and cover letter builder with Typst templates and ATS-friendly export.
 * [r/resumes](https://www.reddit.com/r/resumes/)
 * [Resimay](https://resimay.ai) - AI job tracker that tailors your resume to each job description, runs an ATS-compatibility check, generates cover letters, and autofills applications via a Chrome extension.
